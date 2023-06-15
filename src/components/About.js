@@ -24,4 +24,5 @@ function About() {
     </>
   );
 }
+// code is incomplete if you need proper code contact me on discord @sam.me
 export default About;
